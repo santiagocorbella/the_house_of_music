@@ -1,0 +1,189 @@
+body {
+    background-image: url(../img/fondo\ opción\ 5.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow:auto;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 35px;
+    text-decoration:none;
+    font-style:oblique;
+}
+
+h2 {
+    font-style:oblique;
+    font-size: 24px;
+    text-align: center;
+    text-decoration:underline;
+}
+
+h3 {
+    font-style:oblique;
+    font-size: 22px;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h4 {
+    color:rgba(0, 0, 0, 0.932);
+    font-size: 18px;
+    font-style:oblique;
+    text-align: center;
+    text-decoration: underline;
+}     
+
+h5 {
+    font-style: oblique;
+    font-size: 18px;
+    text-decoration: underline ;
+}
+    
+ul {
+    font-style:oblique;
+    font-size: 18px;
+}
+
+a {
+    color:deeppink;
+    font-size: 18px;
+    text-decoration:none;
+    font-style:oblique;
+}   
+
+li {
+    
+    list-style-type: none;
+    font-style:oblique;
+    display: inline-flex;
+    line-height: 3.0;
+    transform: translate(1px, -25px); 
+}
+
+p {
+    font-size: 20px;
+    text-decoration:none;
+    font-style:oblique;
+    text-align: center;
+}    
+
+
+section {
+        text-align: center;
+         padding: 5px;
+}
+
+ul {
+    text-align: center;
+    line-height: 3.0;
+}
+ol {
+    transform: translate(-45px, -25px); 
+}
+
+table {
+    display:inline-block;
+    font-size: 20px;
+    color: blue;
+}
+
+tr {
+    text-align: center;
+}
+form {
+      text-align: center;
+}
+.centro {
+         text-align: center;
+}
+
+.central {
+    text-align: center;
+}    
+
+.izquierda {
+            text-align: left;
+} 
+
+.derecha {
+          text-align: right;
+}
+
+.altura {
+    transform: translate(10px, 30px); }
+.azul-oscuro {
+              color:darkblue; 
+}                 
+
+.azul {
+    color:rgba(24, 24, 185, 0.788);
+}    
+.celeste {
+    color:rgb(6, 90, 247);
+}
+
+.rosa-fuerte {
+    color:rgb(236, 4, 128); 
+}
+.morado {
+       color:rgba(34, 3, 105, 0.986);
+}       
+
+.negro {
+    color:black;
+}
+
+.noticia--destacada {
+    color:deeppink
+} 
+
+.naranja__subtitulo {
+    color: rgb(250, 104, 7);
+}
+.bordo {
+     color:rgb(204, 4, 4);
+}     
+
+/* ALGUNAS CLASES DE CSS PARA LA PAGINA FOTOS.HTML*/
+
+       
+
+
+
+
+        
+  
+/* css*
+article h1 {
+    color: blue;
+}    
+
+.rojo {
+    color: red;
+}
+
+.gris {
+    color: grey;
+}
+
+.rosa-fuerte {
+          color: deeppink; 
+}
+
+div {
+    color: brown;
+    font-size: 30px;
+}
+
+p {
+    color:green;
+    font-size: 20px;
+} 
+
+p { 
+    color: goldenrod;
+}
+   
