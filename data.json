@@ -1,0 +1,19 @@
+[
+    {
+        "instrumento":"pandereta",
+        "ear": 2024,
+        "stock":3
+    },
+    
+    {    
+        "instrumento":"cajon peruano",
+        "ear": 2022,
+        "stock":2
+    },
+    
+    {
+       "instrumento": "cajon flamenco",
+       "ear": 2021,
+       "stock": 1
+    }    
+]    
